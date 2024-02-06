@@ -1,23 +1,25 @@
-## Getting Started
+## FSM Staking Platform README
 
+Welcome to the FSM Staking Platform repository! This platform allows users to stake their FSM tokens and earn rewards in the form of Saucy Meat Balls (SMB) tokens with a generous APR of 75%. Dive into DeFi with a fun twist and start growing your digital assets today.
 Create a project using this example:
 
 ```bash
 npx thirdweb create --template next-typescript-starter
 ```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Begin by editing pages/index.tsx to tailor the staking platform to your needs. The platform is live-updating, allowing for seamless development experience.
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+Within pages/_app.tsx, you'll find the ThirdwebProvider encapsulating your app. This setup is crucial for enabling the use of our hooks and UI Components found at:
+[Hooks Documentation](https://portal.thirdweb.com/react)
+[UI Components](https://portal.thirdweb.com/ui-components)
 
 ## Environment Variables
 
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
+To ensure the staking platform runs smoothly, certain environment variables need to be set. Refer to .env.example for a comprehensive list. These variables should be added to your .env.local file or configured directly on your hosting service.
 
 ## Deploy to IPFS
 
-Deploy a copy of your application to IPFS using the following command:
+Deploy your staking platform to IPFS using:
 
 ```bash
 yarn deploy
@@ -35,6 +37,13 @@ To learn more about thirdweb and Next.js, take a look at the following resources
 
 You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
-## Join our Discord!
+## Join Our FSM Community!
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+Got questions or suggestions? Want to engage with fellow FSM enthusiasts? Join our [Discord](https://discord.gg/TE5VG8b7z5) and become part of our growing community. For more information about FSM and its ecosystem, visit our website at [fsmtoken.xyz](https://fsmtoken.xyz) and follow us on [Instagram](https://instagram.com/fsmtoken) and [Twitter](https://twitter.com/fsmtoken).
+
+
+
+
+
+
+
