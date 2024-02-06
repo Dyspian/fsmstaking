@@ -41,6 +41,8 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 
 Got questions or suggestions? Want to engage with fellow FSM enthusiasts? Join our [Discord](https://discord.gg/TE5VG8b7z5) and become part of our growing community. For more information about FSM and its ecosystem, visit our website at [fsmtoken.xyz](https://fsmtoken.xyz) and follow us on [Instagram](https://instagram.com/fsmtoken) and [Twitter](https://twitter.com/fsmtoken).
 
+Feel free to buy me [a coffee](https://ko-fi.com/buykofi) to support the FSM project!
+
 
 
 
